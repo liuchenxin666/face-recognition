@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resources/github.png</file>
+    <file>resources/panda.png</file>
+    <file>resources/polar-bear.png</file>
+    <file>resources/instagram.png</file>
+    <file>resources/miss.png</file>
+    <file>resources/label_white.png</file>
+    <file>resources/cat.png</file>
+    <file>resources/idea.png</file>
+    <file>resources/folder.png</file>
+    <file>resources/register1.png</file>
+    <file>resources/user.png</file>
+    <file>resources/user-images.png</file>
+    <file>resources/facial-recognition.png</file>
+  </qresource>
+</RCC>

@@ -21,7 +21,7 @@ python3 new_window.py
 ```
 ## UI
 
-You can install the [PyQt5]([Python+PyQt5+QtDesigner+PyUic+PyRcc（最全安装教程）-CSDN博客](https://blog.csdn.net/baidu_35145586/article/details/108110236)):
+You can install the [PyQt5](https://blog.csdn.net/baidu_35145586/article/details/108110236):
 
 open the `new_window.ui` by the designer.exe
 
